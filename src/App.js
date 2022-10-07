@@ -143,7 +143,7 @@ function App() {
       ) : (
         ""
       )}
-
+{/* //full requst */}
       <Title color="pink">So tai khoan thu huong</Title>
       <Input />
       <Title color="pink">Ngan hang thu huong</Title>
